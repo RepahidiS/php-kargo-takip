@@ -1,0 +1,8 @@
+{
+    "require": {
+        "usmanhalalit/pixie": "^2.0",
+        "thiagoalessio/tesseract_ocr": "^1.1",
+        "eventviva/php-image-resize": "^1.6",
+        "sunra/php-simple-html-dom-parser": "^1.5"
+    }
+}
